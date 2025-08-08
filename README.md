@@ -1,13 +1,10 @@
-Model
-This is the model of AM-MHENet.
+# Model
+This is the model of WCT-MCFNet.
 
-Data
-If the link doesn't work, please contact the author.
+# Data
+The data supporting the findings of this study are available from the author upon reasonable request.
 
-Email: 20221100441@imut.edu.cn or 1909992592@qq.com
+Email: 20231100459@imut.edu.cn or 3489274842@qq.com
 
-Phone: +86-199-6643-8400
+Phone: +86-182-4725-5233
 
-The handled data link Link.
-
-The initial data link Link.
